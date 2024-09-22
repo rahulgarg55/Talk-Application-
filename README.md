@@ -24,7 +24,6 @@ Share files effortlessly! Turbo Talk supports file sharing with a maximum of 5 f
 Engage in face-to-face conversations with real-time video calls using WebRTC, enhancing the communication experience.
 ![Screenshot 2024-02-15 235715](https://github.com/28brana/Turbo-Talk/assets/66713164/7c0d7167-d072-4f88-94f4-aadfe72405c8)
 
-![Screenshot 2024-02-15 235833](https://github.com/28brana/Turbo-Talk/assets/66713164/4fada42c-3d9c-444d-ac86-704995d46326)
 
 ## Demo Video
 
